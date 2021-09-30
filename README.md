@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinuheshinbr
-- 👀 I’m interested in coding, rock climbing and music.
+- 👀 I’m interested in coding, rock climbing, cooking and gardening.
 - 🌱 I’m currently learning React best practices and TS.
 - 💞️ I’m looking to collaborate on neovim plugins
 - 📫 How to reach me sinuheshin@gmail.com
