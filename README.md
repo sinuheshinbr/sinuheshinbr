@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinuheshinbr
 - 👀 I’m interested in coding, rock climbing, cooking and gardening.
 - 🌱 I’m currently learning React best practices and TS.
-- 💞️ I’m looking to collaborate on neovim plugins
+- 💞️ I’m looking to get closer to blockchain technology.
 - 📫 How to reach me sinuheshin@gmail.com
 
 <!---
