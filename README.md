@@ -24,11 +24,29 @@
 
 I am a Full Stack Developer from Brazil
 
-- :telescope: I’m working at nonStop. A startup that empowers real-state agents. (https://usenonstop.com)
+- :telescope: I’m working at nonStop. A startup that empowers real-state agents - https://usenonstop.com
 
 - :seedling: Interested in contributing to open-source.
 
 - :zap: Currently studying tech skills and startup business.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?" title="Git" **alt="Git" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Git" **alt="NextJs" width="80" height="80"/>
+
+
+</div>
 
 <!---
 sinuheshinbr/sinuheshinbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
