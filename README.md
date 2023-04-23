@@ -43,7 +43,7 @@ I am a Full Stack Developer from Brazil
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?" title="Git" **alt="Git" width="80" height="80"/>
-    <img src="https://github.com/sinuheshinbr/devicon/blob/master/icons/nextjs/nextjs-original-wordmark-white.svg" title="NextJs" **alt="NextJs" width="80" height="80"/>
+    <img src="https://github.com/sinuheshinbr/devicon/blob/master/icons/nextjs/nextjs-original-wordmark-white-bg.svg" title="NextJs" **alt="NextJs" width="80" height="80"/>
 
 
 </div>
