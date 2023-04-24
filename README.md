@@ -53,9 +53,9 @@ I am a Full Stack Developer from Brazil
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinuheshinbr&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-flame-kappa.vercel.app/api?username=sinuheshinbr&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinuheshinbr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-flame-kappa.vercel.app/api/top-langs/?username=sinuheshinbr&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=izimob,burnie-sls,burnie,syn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sinuheshinbr/sinuheshinbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
