@@ -42,12 +42,20 @@ I am a Full Stack Developer from Brazil
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?" title="Git" **alt="Git" width="80" height="80"/>
-   <img src="https://github.com/sinuheshinbr/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" **alt="MongoDB" width="80" height="80"/>
-     <img src="https://github.com/sinuheshinbr/devicon/blob/feature/trpc/icons/trpc/trpc-original.svg" title="tRPC" **alt="tRPC" width="80" height="80"/>
-  <img src="https://github.com/sinuheshinbr/devicon/blob/personal/colored-icons/icons/nextjs/nextjs-original-wordmark-white-bg.svg" title="NextJS" **alt="NextJS" width="80" height="80"/>
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?" title="Git" alt="Git" width="80" height="80"/>
+   <img src="https://github.com/sinuheshinbr/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/>
+     <img src="https://github.com/sinuheshinbr/devicon/blob/feature/trpc/icons/trpc/trpc-original.svg" title="tRPC" alt="tRPC" width="80" height="80"/>
+  <img src="https://github.com/sinuheshinbr/devicon/blob/personal/colored-icons/icons/nextjs/nextjs-original-wordmark-white-bg.svg" title="NextJS" alt="NextJS" width="80" height="80"/>
+   <img src="https://github.com/sinuheshinbr/devicon/blob/personal/colored-icons/icons/prisma/prisma-original-white-bg.svg" title="Prisma" alt="Prisma" width="80" height="80"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinuheshinbr&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinuheshinbr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sinuheshinbr/sinuheshinbr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
