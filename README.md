@@ -44,7 +44,7 @@ I am a Full Stack Developer from Brazil
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg?" title="Git" alt="Git" width="80" height="80"/>
    <img src="https://github.com/sinuheshinbr/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="80" height="80"/>
-     <img src="https://github.com/sinuheshinbr/devicon/blob/feature/trpc/icons/trpc/trpc-plain-wordmark.svg" title="tRPC" alt="tRPC" width="80" height="80"/>
+     <img src="https://github.com/sinuheshinbr/devicon/blob/personal/colored-icons/icons/trpc/trpc-plain-wordmark.svg" title="tRPC" alt="tRPC" width="80" height="80"/>
   <img src="https://github.com/sinuheshinbr/devicon/blob/personal/colored-icons/icons/nextjs/nextjs-original-wordmark-white-bg.svg" title="NextJS" alt="NextJS" width="80" height="80"/>
    <img src="https://github.com/sinuheshinbr/devicon/blob/personal/colored-icons/icons/prisma/prisma-original-white-bg.svg" title="Prisma" alt="Prisma" width="80" height="80"/>
 </div>
